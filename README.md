@@ -1,3 +1,3 @@
-# Android_Studio
+# Task 2
 
-This is a repo for my _'Android App Development'_ tasks. Each **Branch** will represent corresponding **task**.
+Layout of the first three application screens. Currently without the images.
